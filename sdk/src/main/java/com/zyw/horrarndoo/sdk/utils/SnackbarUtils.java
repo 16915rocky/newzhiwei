@@ -11,7 +11,7 @@ import android.widget.TextView;
 import com.zyw.horrarndoo.sdk.R;
 
 /**
- * Created by Horrarndoo on 2017/8/31.
+ *
  * <p>
  * Snackbar工具类
  */

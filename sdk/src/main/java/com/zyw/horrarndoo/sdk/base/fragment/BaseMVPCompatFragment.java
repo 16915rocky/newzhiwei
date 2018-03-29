@@ -16,7 +16,7 @@ import com.zyw.horrarndoo.sdk.utils.ToastUtils;
 import me.yokeyword.fragmentation.SupportFragment;
 
 /**
- * Created by Horrarndoo on 2017/9/6.
+ *
  * <p>
  * Mvp Fragment基类
  * <p>

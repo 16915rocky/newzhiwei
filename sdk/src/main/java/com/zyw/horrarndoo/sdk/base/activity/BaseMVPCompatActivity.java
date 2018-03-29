@@ -9,7 +9,7 @@ import com.zyw.horrarndoo.sdk.base.IBaseActivity;
 import com.zyw.horrarndoo.sdk.utils.ToastUtils;
 
 /**
- * Created by Horrarndoo on 2017/4/6.
+ *
  * <p>
  * Mvp Activity基类
  */

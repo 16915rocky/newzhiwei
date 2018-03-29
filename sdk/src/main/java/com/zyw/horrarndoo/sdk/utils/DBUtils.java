@@ -10,7 +10,7 @@ import com.zyw.horrarndoo.sdk.config.DBConfig;
 
 
 /**
- * Created by Horrarndoo on 2017/8/31.
+ *
  * <p>
  * 数据库工具类
  */

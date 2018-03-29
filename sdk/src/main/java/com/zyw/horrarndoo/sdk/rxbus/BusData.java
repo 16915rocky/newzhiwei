@@ -2,7 +2,7 @@ package com.zyw.horrarndoo.sdk.rxbus;
 
 /**
  * RxBus data
- * Created by gorden on 2016/7/8.
+ *
  */
 public class BusData {
     String id;

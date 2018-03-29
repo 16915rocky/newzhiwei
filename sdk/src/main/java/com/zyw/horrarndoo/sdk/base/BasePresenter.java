@@ -5,7 +5,7 @@ import android.support.annotation.NonNull;
 import com.zyw.horrarndoo.sdk.RxManager;
 
 /**
- * Created by Horrarndoo on 2017/4/25.
+ *
  * <p>
  * base presenter
  */

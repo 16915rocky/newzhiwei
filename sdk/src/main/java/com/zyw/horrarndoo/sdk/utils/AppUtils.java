@@ -19,7 +19,7 @@ import com.zyw.horrarndoo.sdk.global.GlobalApplication;
 import java.io.File;
 
 /**
- * Created by Horrarndoo on 2017/8/31.
+ *
  * <p>
  * App工具类
  */

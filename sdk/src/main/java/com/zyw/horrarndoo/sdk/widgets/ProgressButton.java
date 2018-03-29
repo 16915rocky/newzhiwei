@@ -14,7 +14,7 @@ import com.zyw.horrarndoo.sdk.R;
 
 
 /**
- * Created by Horrarndoo on 2017/4/5.
+ *
  * <p>
  * 带有进度变化的button
  */

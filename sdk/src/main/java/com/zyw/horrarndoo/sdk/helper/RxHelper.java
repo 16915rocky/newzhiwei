@@ -14,7 +14,7 @@ import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.schedulers.Schedulers;
 
 /**
- * Created by Horrarndoo on 2017/9/12.
+ *
  * <p>
  */
 public class RxHelper {

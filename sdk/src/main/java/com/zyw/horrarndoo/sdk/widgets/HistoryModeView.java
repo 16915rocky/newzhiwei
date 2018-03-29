@@ -12,8 +12,8 @@ import com.zyw.horrarndoo.sdk.utils.ResourcesUtils;
 
 /**
  * 历史数据查询界面模式自定义View
- * @author zyw
- * @creation 2016-12-26
+ *
+ *
  */
 public class HistoryModeView extends LinearLayout {
 	private LinearLayout ll_click_view;

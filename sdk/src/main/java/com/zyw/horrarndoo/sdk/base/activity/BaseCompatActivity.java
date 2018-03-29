@@ -24,7 +24,7 @@ import me.yokeyword.fragmentation.anim.DefaultVerticalAnimator;
 import me.yokeyword.fragmentation.anim.FragmentAnimator;
 
 /**
- * Created by Horrarndoo on 2017/9/7.
+ *
  * <p>
  * BaseActivity
  */

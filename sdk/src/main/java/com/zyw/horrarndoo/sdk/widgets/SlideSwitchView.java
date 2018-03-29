@@ -16,7 +16,7 @@ import com.zyw.horrarndoo.sdk.R;
 
 
 /**
- * Created by Horrarndoo on 2017/6/1.
+ *
  * <p>
  * 自定义滑动开关
  * <p>

@@ -14,7 +14,7 @@ import okhttp3.Response;
 import static com.zyw.horrarndoo.sdk.utils.HttpUtils.getUserAgent;
 
 /**
- * Created by Horrarndoo on 2017/9/12.
+ *
  * <p>
  * CacheInterceptor
  */

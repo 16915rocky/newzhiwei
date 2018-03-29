@@ -18,7 +18,7 @@ import java.util.List;
 import static com.zyw.horrarndoo.sdk.utils.LogUtils.e;
 
 /**
- * Created by Horrarndoo on 2017/8/31.
+ *
  * <p>
  * Wifi连接工具类
  */

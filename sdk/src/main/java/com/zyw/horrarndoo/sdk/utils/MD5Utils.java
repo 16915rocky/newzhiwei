@@ -3,7 +3,7 @@ package com.zyw.horrarndoo.sdk.utils;
 import java.security.MessageDigest;
 
 /**
- * Created by Horrarndoo on 2017/4/5.
+ *
  * <p>
  * MD5加密工具类
  */

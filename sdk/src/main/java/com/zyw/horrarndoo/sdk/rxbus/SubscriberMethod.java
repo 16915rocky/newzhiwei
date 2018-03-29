@@ -5,7 +5,7 @@ import java.lang.reflect.Method;
 
 /**
  *
- * Created by gorden on 2016/7/23.
+ *
  */
 public class SubscriberMethod {
     public Method method;

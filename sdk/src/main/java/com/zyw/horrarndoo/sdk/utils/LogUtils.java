@@ -5,7 +5,7 @@ import android.util.Log;
 import com.zyw.horrarndoo.sdk.BuildConfig;
 
 /**
- * Created by Horrarndoo on 2017/4/5.
+ *
  * <p>
  * Log工具类
  */

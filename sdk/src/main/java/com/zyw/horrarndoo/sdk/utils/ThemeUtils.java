@@ -9,9 +9,7 @@ import com.zyw.horrarndoo.sdk.R;
 
 
 /**
- * 作者：杭鹏伟
- * 日期：16-7-8 15:15
- * 邮箱：424346976@qq.com
+ *
  */
 public class ThemeUtils {
     public static int[][] themeArr = {

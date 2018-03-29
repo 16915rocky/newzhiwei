@@ -10,7 +10,7 @@ import com.zyw.horrarndoo.sdk.R;
 import com.zyw.horrarndoo.sdk.base.BasePresenter;
 
 /**
- * Created by Horrarndoo on 2017/10/17.
+ *
  * <p>
  * 带RecycleView加载状态view的fragment，主要用于显示加载中、空界面、加载失败等状态界面显示
  */

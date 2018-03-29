@@ -10,7 +10,7 @@ import com.zyw.horrarndoo.sdk.BuildConfig;
 
 
 /**
- * Created by Horrarndoo on 2017/9/1.
+ *
  * <p>
  * 全局Application
  */

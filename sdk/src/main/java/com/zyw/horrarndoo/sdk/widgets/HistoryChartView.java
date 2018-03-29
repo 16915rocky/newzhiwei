@@ -23,7 +23,7 @@ import com.zyw.horrarndoo.sdk.utils.DisplayUtils;
  * 历史记录查询图表 基于pathMeasure+DashPathEffect+属性动画实现
  * 绘制时采取双缓冲绘制
  *
- * @author zyw
+ *
  * @creation 2017-03-06
  */
 public class HistoryChartView extends View {

@@ -21,7 +21,7 @@ import io.reactivex.subjects.Subject;
 
 /**
  * RxBus
- * Created by gorden on 2016/5/12.
+ *
  * update 2017/3/1
  */
 @SuppressWarnings("unused")

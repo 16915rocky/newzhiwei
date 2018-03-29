@@ -2,7 +2,7 @@ package com.zyw.horrarndoo.sdk.rxbus;
 
 /**
  *
- * Created by gorden on 2016/7/23.
+ *
  */
 public enum ThreadMode {
     /**

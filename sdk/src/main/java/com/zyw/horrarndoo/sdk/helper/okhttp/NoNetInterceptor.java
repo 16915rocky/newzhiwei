@@ -13,7 +13,7 @@ import okhttp3.Response;
 import static com.zyw.horrarndoo.sdk.utils.HttpUtils.getUserAgent;
 
 /**
- * Created by Horrarndoo on 2017/9/18.
+ *
  * <p>
  * 无网络时的缓存拦截器
  */
