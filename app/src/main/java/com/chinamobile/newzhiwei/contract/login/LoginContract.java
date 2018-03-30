@@ -1,8 +1,8 @@
 package com.chinamobile.newzhiwei.contract.login;
 
-import com.zyw.horrarndoo.sdk.base.BasePresenter;
-import com.zyw.horrarndoo.sdk.base.IBaseModel;
-import com.zyw.horrarndoo.sdk.base.IBaseView;
+import com.chinamobiles.zhiwei.sdk.base.BasePresenter;
+import com.chinamobiles.zhiwei.sdk.base.IBaseModel;
+import com.chinamobiles.zhiwei.sdk.base.IBaseView;
 
 import java.util.Map;
 

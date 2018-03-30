@@ -9,7 +9,7 @@ import com.chinamobile.newzhiwei.model.login.LoginModel;
 import com.chinamobile.newzhiwei.net.CustomConsumer;
 import com.chinamobile.newzhiwei.net.ResponseBean;
 import com.google.gson.Gson;
-import com.zyw.horrarndoo.sdk.utils.AppUtils;
+import com.chinamobiles.zhiwei.sdk.utils.AppUtils;
 
 import io.reactivex.functions.Consumer;
 import okhttp3.ResponseBody;

@@ -9,7 +9,7 @@ import android.view.WindowManager;
 import com.chinamobile.newzhiwei.db.UserDao;
 import com.chinamobile.newzhiwei.model.bean.login.UserBean;
 import com.tencent.bugly.crashreport.CrashReport;
-import com.zyw.horrarndoo.sdk.global.GlobalApplication;
+import com.chinamobiles.zhiwei.sdk.global.GlobalApplication;
 
 /**
  * Created by Horrarndoo on 2017/9/6.

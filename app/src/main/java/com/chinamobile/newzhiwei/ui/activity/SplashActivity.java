@@ -20,9 +20,9 @@ import com.chinamobile.newzhiwei.util.EncryptUtils;
 import com.chinamobile.newzhiwei.util.PhoneConfigMessageUtils;
 import com.google.gson.Gson;
 import com.tbruyelle.rxpermissions2.RxPermissions;
-import com.zyw.horrarndoo.sdk.base.activity.BaseCompatActivity;
-import com.zyw.horrarndoo.sdk.helper.RxHelper;
-import com.zyw.horrarndoo.sdk.utils.StringUtils;
+import com.chinamobiles.zhiwei.sdk.base.activity.BaseCompatActivity;
+import com.chinamobiles.zhiwei.sdk.helper.RxHelper;
+import com.chinamobiles.zhiwei.sdk.utils.StringUtils;
 
 import java.util.HashMap;
 import java.util.Map;

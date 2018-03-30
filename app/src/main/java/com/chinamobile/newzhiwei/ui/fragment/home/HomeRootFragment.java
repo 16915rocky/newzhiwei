@@ -12,9 +12,9 @@ import com.chinamobile.newzhiwei.R;
 import com.chinamobile.newzhiwei.contract.home.HomeContract;
 import com.chinamobile.newzhiwei.presenter.home.HomePresenter;
 import com.youth.banner.Banner;
-import com.zyw.horrarndoo.sdk.base.BasePresenter;
-import com.zyw.horrarndoo.sdk.base.fragment.BaseMVPCompatFragment;
-import com.zyw.horrarndoo.sdk.utils.AppUtils;
+import com.chinamobiles.zhiwei.sdk.base.BasePresenter;
+import com.chinamobiles.zhiwei.sdk.base.fragment.BaseMVPCompatFragment;
+import com.chinamobiles.zhiwei.sdk.utils.AppUtils;
 
 import butterknife.BindView;
 
@@ -54,7 +54,9 @@ public class HomeRootFragment extends BaseMVPCompatFragment<HomeContract.HomePre
     public int getLayoutId() {
         return R.layout.fragment_home;
     }
-
+    /*
+    *初始化
+    * */
     @Override
     public void initUI(View view, @Nullable Bundle savedInstanceState) {
 

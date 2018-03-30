@@ -7,8 +7,8 @@ import android.view.View;
 
 import com.chinamobile.newzhiwei.R;
 import com.chinamobile.newzhiwei.contract.home.HomeContract;
-import com.zyw.horrarndoo.sdk.base.BasePresenter;
-import com.zyw.horrarndoo.sdk.base.fragment.BaseMVPCompatFragment;
+import com.chinamobiles.zhiwei.sdk.base.BasePresenter;
+import com.chinamobiles.zhiwei.sdk.base.fragment.BaseMVPCompatFragment;
 
 /**
  * Created by Administrator on 2018/3/22.

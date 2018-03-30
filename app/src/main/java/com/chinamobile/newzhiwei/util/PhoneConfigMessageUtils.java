@@ -6,7 +6,7 @@ import android.support.v4.app.ActivityCompat;
 import android.telephony.TelephonyManager;
 
 import com.ai.appframe2.complex.util.e.K;
-import com.zyw.horrarndoo.sdk.utils.AppUtils;
+import com.chinamobiles.zhiwei.sdk.utils.AppUtils;
 
 import static android.content.Context.TELEPHONY_SERVICE;
 

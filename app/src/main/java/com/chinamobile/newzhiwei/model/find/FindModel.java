@@ -2,7 +2,7 @@ package com.chinamobile.newzhiwei.model.find;
 
 import com.chinamobile.newzhiwei.contract.find.FindContract;
 import com.chinamobile.newzhiwei.net.RetrofitClient;
-import com.zyw.horrarndoo.sdk.utils.AppUtils;
+import com.chinamobiles.zhiwei.sdk.utils.AppUtils;
 
 import java.util.Map;
 

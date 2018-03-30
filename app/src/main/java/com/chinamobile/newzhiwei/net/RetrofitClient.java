@@ -28,7 +28,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RetrofitClient {
     private static final int DEFAULT_TIMEOUT=20;
-    public static final String BASE_URL="https://m360.zj.chinamobile.com/ywapp/";
+    public static final String BASE_URL="https://m360.zj.zhiwei.com/ywapp/";
     //public static final String BASE_URL = "http://10.73.131.139:8898/ywapp/";
     public static String  baseUrl=BASE_URL;
     private static Context mContext;

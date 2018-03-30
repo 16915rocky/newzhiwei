@@ -3,7 +3,7 @@ package com.chinamobile.newzhiwei.model.home;
 import android.support.annotation.NonNull;
 
 import com.chinamobile.newzhiwei.contract.home.HomeContract;
-import com.zyw.horrarndoo.sdk.base.BaseModel;
+import com.chinamobiles.zhiwei.sdk.base.BaseModel;
 
 import java.util.Map;
 

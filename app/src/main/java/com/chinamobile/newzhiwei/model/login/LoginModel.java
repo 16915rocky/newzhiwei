@@ -2,8 +2,8 @@ package com.chinamobile.newzhiwei.model.login;
 
 import com.chinamobile.newzhiwei.contract.login.LoginContract;
 import com.chinamobile.newzhiwei.net.RetrofitClient;
-import com.zyw.horrarndoo.sdk.base.BaseModel;
-import com.zyw.horrarndoo.sdk.utils.AppUtils;
+import com.chinamobiles.zhiwei.sdk.base.BaseModel;
+import com.chinamobiles.zhiwei.sdk.utils.AppUtils;
 
 import java.util.Map;
 

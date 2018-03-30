@@ -10,8 +10,8 @@ import com.chinamobile.newzhiwei.R;
 import com.chinamobile.newzhiwei.ui.fragment.find.FindRootFragment;
 import com.chinamobile.newzhiwei.ui.fragment.home.HomeRootFragment;
 import com.chinamobile.newzhiwei.util.StatusBarUtil;
-import com.zyw.horrarndoo.sdk.base.activity.BaseCompatActivity;
-import com.zyw.horrarndoo.sdk.helper.BottomNavigationViewHelper;
+import com.chinamobiles.zhiwei.sdk.base.activity.BaseCompatActivity;
+import com.chinamobiles.zhiwei.sdk.helper.BottomNavigationViewHelper;
 
 import butterknife.BindView;
 import me.yokeyword.fragmentation.SupportFragment;

@@ -17,7 +17,7 @@ import retrofit2.http.Url;
  */
 
 public interface BaseApiService {
-    public static final String HOST="https://m360.zj.chinamobile.com/ywapp/";
+    public static final String HOST="https://m360.zj.zhiwei.com/ywapp/";
 
     @FormUrlEncoded
     @POST()

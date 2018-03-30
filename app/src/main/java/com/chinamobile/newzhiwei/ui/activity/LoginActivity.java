@@ -14,8 +14,8 @@ import com.chinamobile.newzhiwei.contract.login.LoginContract;
 import com.chinamobile.newzhiwei.presenter.login.LoginPresenter;
 import com.chinamobile.newzhiwei.util.EncryptUtils;
 import com.chinamobile.newzhiwei.util.PhoneConfigMessageUtils;
-import com.zyw.horrarndoo.sdk.base.BasePresenter;
-import com.zyw.horrarndoo.sdk.base.activity.BaseMVPCompatActivity;
+import com.chinamobiles.zhiwei.sdk.base.BasePresenter;
+import com.chinamobiles.zhiwei.sdk.base.activity.BaseMVPCompatActivity;
 
 import java.util.HashMap;
 import java.util.Map;
